@@ -43,7 +43,7 @@ int PriorityQueue<T>::remove()
 	while (child <= NoOfElements)
 	{
 		if (data[child + 1].value < data[child].value)
-            child++;
+            		child++;
 
 		if (data[parent].value > data[child].value)
 			swap(data[parent], data[child]);
