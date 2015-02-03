@@ -33,7 +33,7 @@ Evaluate the sum of all the amicable numbers under 10000.
 Problem 22  
 Maximum path sum
 
-It is appropriate that I give a URL to this problem,
+It is appropriate that I give a URL to this problem,  
 https://projecteuler.net/problem=18  
 https://projecteuler.net/problem=67
 
