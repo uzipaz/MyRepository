@@ -1,0 +1,3 @@
+#A* in 3D
+
+Commonly, A* works on Graph data structure that contains vertices and edges. We see vertices as a point or state in a conceptual space and edges are either distance or the difference between two states. In this project, I tried to implement A* in 2D plane of real numbers. The challenge here is to map the vertices and edges into a real numbered 2d plane. You may imagine this problem as a video game in which a character can move with in 2D space that contains obstacles. One common way to do this is to allocate polygons in this 2d plane where you allocate polygons to specify where the character can or cannot walk within that space. I use euclidean distance for solve path between polygons. 
