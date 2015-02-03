@@ -3,8 +3,8 @@
 projecteuler.net is a very helpful website for new programmers to increase their problem solving skills using programming. So far,
 I have been able to solve 23 problems. Following is the description of the problem that I have solved in the code that I have uploaded in this folder
 
-Problem 19
-Counting Sundays
+Problem 19  
+Counting Sundays 
 
 You are given the following information, but you may prefer to do some research for yourself.
 
@@ -20,7 +20,7 @@ How many Sundays fell on the first of the month during the twentieth century (1 
 
 My solution is not really elegent as I would hoped to find but it works. This problem was difficult to think about.
 
-Problem 21
+Problem 21  
 Amicable Numbers
 
 Let d(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).
@@ -30,7 +30,7 @@ For example, the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 a
 
 Evaluate the sum of all the amicable numbers under 10000.
 
-Problem 22
+Problem 22  
 Maximum path sum
 
 It is appropriate that I give a URL to this problem,
@@ -40,7 +40,7 @@ https://projecteuler.net/problem=67
 Problem 18 and 67 are the same problems with different magnitutude of difficulty. I apologize if I am causing confusion in the 
 problem number, I was programming I though it was 22 but it is 18, 67 on the website.
 
-Problem 24
+Problem 24  
 Lexicographic Permutations
 
 A permutation is an ordered arrangement of objects. For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of 0, 1 and 2 are:
